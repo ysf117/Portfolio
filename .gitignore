@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Build
+.next/
+out/
+
+# Cache & generated
+tsconfig.tsbuildinfo
+*.tsbuildinfo
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
