@@ -143,16 +143,14 @@ export interface EducationItem {
 export const EDUCATION: EducationItem[] = [
     {
         yearRange: '2018 — 2021',
-        degree: 'MSC. COMPUTER SCIENCE',
+        degree: 'BSC. COMPUTER SCIENCE',
         institution: 'University of West London',
-        focus: 'Focus: Distributed Systems',
         isHighlighted: false,
     },
     {
         yearRange: '2014 — 2017',
         degree: 'A-Levels',
         institution: 'Alperton Sixth Form',
-        focus: 'Focus: Web Technologies',
         isHighlighted: false,
     },
 ];
@@ -166,7 +164,7 @@ export const CERTIFICATIONS = [
     {
         icon: 'cloud_done',
         title: 'AWS Solutions Architect',
-        issuer: 'Amazon Web Services',
+        issuer: 'In Progress',
     },
     {
         icon: 'psychology',
